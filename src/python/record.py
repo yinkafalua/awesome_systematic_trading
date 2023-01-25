@@ -36,6 +36,3 @@ class Record:
     features: Set[Feature]
     languages: Set[Language]
     tags: Set[str]
-
-    
-
